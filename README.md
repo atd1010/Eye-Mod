@@ -1,5 +1,3 @@
-# Eye-Mod
-
 # EyeMod
 
 Don't get us wrong, this is our first mod. Neither of us have any serious coding experience for something as 'serious' as this.
