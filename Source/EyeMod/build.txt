@@ -1,0 +1,3 @@
+displayName = EyeMod
+author = M3M31UrD and Mi460
+version = 0.1
