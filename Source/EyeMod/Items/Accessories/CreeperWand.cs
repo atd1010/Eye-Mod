@@ -1,30 +1,25 @@
+using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using Terraria.Utilities;
 
-namespace EyeMod.Items
+namespace EyeMod.Items.Accessories
 {
 	public class CreeperWand : ModItem
 	{
 		public override void SetStaticDefaults() 
 		{
 			// DisplayName.SetDefault("CreeperWand"); // By default, capitalization in classnames will add spaces to the display name. You can customize the display name here by uncommenting this line.
-			Tooltip.SetDefault("This is a placeholder accessory for a useable item in the future.");
+			Tooltip.SetDefault("Double tap a direction to teleport a far distance.");
 		}
 
 		public override void SetDefaults() 
 		{
-			item.damage = 1;
-			item.melee = true;
-			item.width = 60;
-			item.height = 80;
-			item.useTime = 10;
-			item.useAnimation = 20;
-			item.useStyle = 1;
-			item.knockBack = 6;
-			item.value = 10000;
+			item.width = 20;
+			item.height = 20;
+			item.accessory = true;
+			item.value = 450000;
 			item.rare = -12;
-			item.UseSound = SoundID.Item1;
-			item.autoReuse = true;
 		}
 
 		public override void AddRecipes() 
