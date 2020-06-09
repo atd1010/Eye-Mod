@@ -7,7 +7,7 @@ However, we have an advantage. Motivation and determination. Other than that, we
 
 ## Our crew:
 
-### M3M31UrD: Organizer, Lead Art Designer, and Developer
+### M3M31UrD (atd1010): Organizer, Lead Art Designer, and Developer
 
 ### (MC)Mi460: Lead Developer
 
