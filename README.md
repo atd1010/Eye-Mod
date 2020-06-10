@@ -26,8 +26,14 @@ The mod will hopefully end with our results of:
 
 Thanks for checking us out.
 
+<a href="https://mi460.dev/eyemod">mi460.dev/eyemod</a>
+
+Share the link above to others so they can check us out!
+
 ### Timeline:
 
 6/8/20 - Art Assets phase begun
 
 6/9/20 - Development phase begun + repo creation
+
+6/10/20 - Still in beta phases. Not expecting exit any time soon. Major changes.
