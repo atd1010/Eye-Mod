@@ -7,7 +7,7 @@ However, we have an advantage. Motivation and determination. Other than that, we
 
 ### M3M31UrD (atd1010): Organizer, Lead Art Designer, and Developer
 
-### (MC)Mi460: Lead Developer, IT guy
+### <a href="https://mi460.dev/github">(MC)Mi460: Lead Developer, IT guy</a>
 
 
 ## Plans:
