@@ -24,8 +24,6 @@ The mod will hopefully end with our results of:
 
 
 
-Oh yeah, btw. If you steal our code, I (MCMi460) will go out of my way to make your life hell.
-
 Thanks for checking us out.
 
 ### Timeline:
