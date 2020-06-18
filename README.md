@@ -1,5 +1,13 @@
 # EyeMod
 
+# We are taking an extended hiatus for development of this mod, don't expect us to be back soon.
+
+## Why?
+
+We got bored of it.
+
+---
+
 Don't get us wrong, this is our first mod. Neither of us have any serious coding experience for something as 'serious' as this.
 However, we have an advantage. Motivation and determination. Other than that, we're hopeless.
 
@@ -39,6 +47,8 @@ Share the link above to others so they can check us out!
 6/9/20 - Development phase begun + repo creation
 
 6/10/20 - Still in beta phases. Not expecting exit any time soon. Major changes.
+
+6/18/20 - Announced the extended hiatus.
 
 
 
